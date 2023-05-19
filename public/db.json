@@ -1,0 +1,284 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Moon Marsh",
+      "artist": "Sasha768",
+      "image": "https://secure.img1-fg.wfcdn.com/im/41498862/resize-h445%5Ecompr-r85/2306/230682627/Frank+Moth+Nostalgia+Frank+Moth+-+Wrapped+Canvas+Graphic+Art.jpg",
+      "price": 8
+    },
+    {
+      "id": 2,
+      "name": "Gas",
+      "artist": "Memo780",
+      "image": "https://secure.img1-fg.wfcdn.com/im/51394890/resize-h445%5Ecompr-r85/3693/36939268/Desert+Landscape+4+by+Bekim+Mehovic+-+Wrapped+Canvas+Graphic+Art.jpg",
+      "price": 14
+    },
+    {
+      "id": 3,
+      "name": "Goku",
+      "artist": "Beepon",
+      "image": "https://d1lfxha3ugu3d4.cloudfront.net/assets/system-images/made/assets/system-images/remote/https_d1lfxha3ugu3d4.cloudfront.net/exhibitions/images/OscarYiHou_EL201.05_800_800_s_c1_c%20t.jpg",
+      "price": 3
+    },
+    {
+      "id": 4,
+      "name": "One",
+      "artist": "GoldenB",
+      "image": "https://guardian.ng/wp-content/uploads/2022/12/African-art-scaled.jpeg",
+      "price": 4
+    },
+    {
+      "id": 5,
+      "name": "Two One",
+      "artist": "SlimWally",
+      "image": "https://storage.googleapis.com/pod_public/1300/105200.jpg",
+      "price": 0
+    },
+    {
+      "id": 6,
+      "name": "Cosmos",
+      "artist": "Xanferando",
+      "image": "https://tds-images.thedailystar.net/sites/default/files/styles/amp_metadata_content_image_min_696px_wide/public/images/2022/10/14/ai_art_generator.png",
+      "price": -2
+    },
+    {
+      "id": 7,
+      "name": "Jelly",
+      "artist": "NinaLara",
+      "image": "https://secure.img1-fg.wfcdn.com/im/04906217/resize-h445%5Ecompr-r85/7257/72574262/Floating+Jellyfish+Indigo+by+Eli+Halpin+-+Wrapped+Canvas+Print.jpg",
+      "price": 0
+    },
+    {
+      "id": 8,
+      "name": "KayNine",
+      "artist": "Kane",
+      "image": "https://artprojectsforkids.org/wp-content/uploads/2021/01/Balloon-Dog-768x597.jpeg",
+      "price": 0
+    },
+    {
+      "id": 9,
+      "name": "KayNine",
+      "artist": "Mole",
+      "image": "https://ashleyfurniture.scene7.com/is/image/AshleyFurniture/A600000935_1?$AFHS-PDP-Zoomed$",
+      "price": 0
+    },
+    {
+      "id": 10,
+      "name": "KayNine",
+      "artist": "Narnia",
+      "image": "https://www.vectornator.io/blog/content/images/2022/12/Cover-history-and-future-of-digital-art.jpg",
+      "price": 0
+    },
+    {
+      "id": 11,
+      "name": "KayNine",
+      "artist": "Mine",
+      "image": "https://i.pinimg.com/originals/f0/6f/4f/f06f4f3724eecd34e856feecc06b93c8.jpg",
+      "price": 0
+    },
+    {
+      "id": 12,
+      "name": "KayNine",
+      "artist": "Carlson23",
+      "image": "https://static.designboom.com/wp-content/uploads/2022/05/strozzi-nft-db-500.jpg",
+      "price": 0
+    },
+    {
+      "id": 13,
+      "name": "KayNine",
+      "artist": "HarryDirty",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw6B6_ZqQIWk_p5nUjrYnSLVHa3wrqMwn-pJxKq4VofXIWpXE9Bfuj7AGSkthFystQkoc&usqp=CAU",
+      "price": 0
+    },
+    {
+      "id": 14,
+      "name": "KayNine",
+      "artist": "DanLow",
+      "image": "https://cdn.geekwire.com/wp-content/uploads/2022/07/melaniabilustracion-No-Planet-B-square.jpg",
+      "price": 0
+    },
+    {
+      "id": 15,
+      "name": "KayNine",
+      "artist": "ArtIs",
+      "image": "https://lh4.googleusercontent.com/0NhJszZw9Sbw-YWA0-Oj8ov5nDhLtlTkSOYP5BZMl2HhGTWL9AduCo1OkJtFWTSBEYTlMtVYYD8u1lzTDc-6OE_oF9Guw_JwBvS0W-edMQ8i27_UmmtDWjNhaPG0TuJ4DgnsN3EWeecvYYjZd-4HgMM",
+      "price": 0
+    },
+    {
+      "id": 16,
+      "name": "KayNine",
+      "artist": "Ramus45",
+      "image": "https://d1ee3oaj5b5ueh.cloudfront.net/thumbs/1440xAUTO_processed_article_2021_07_60eea54fe4385.jpeg",
+      "price": 0
+    },
+    {
+      "id": 17,
+      "name": "KayNine",
+      "artist": "BenKo",
+      "image": "https://assets.newatlas.com/dims4/default/dee9995/2147483647/strip/true/crop/1013x675+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F78%2F0c%2Fd2fd92f74bbfae7eb33682e48ddf%2Floz-a-new-yorker-style-caricature._04006c46-0f96-4e87-8b07-72f5ab2302a8.png",
+      "price": 0
+    },
+    {
+      "id": 18,
+      "name": "KayNine",
+      "artist": "Igloo4",
+      "image": "https://blog.artsper.com/wp-content/uploads/2022/01/Pavageau.jpg",
+      "price": 0
+    },
+    {
+      "id": 19,
+      "name": "KayNine",
+      "artist": "NineFour",
+      "image": "https://i.etsystatic.com/15124552/r/il/c93d0e/2925436381/il_fullxfull.2925436381_nfb4.jpg",
+      "price": 0
+    },
+    {
+      "id": 20,
+      "name": "KayNine",
+      "artist": "Reon3",
+      "image": "https://assets-global.website-files.com/61406347b8db463e379e2732/61703da6288f9f2efdd09858_how-to-start-digital-art-4.jpeg",
+      "price": 0
+    },
+    {
+      "id": 21,
+      "name": "KayNine",
+      "artist": "Polgu3",
+      "image": "https://d11kvfv4kxw5s4.cloudfront.net/wp-content/uploads/sites/15/2021/05/31130410/squirtle-in-a-super-brand-1.jpg",
+      "price": 0
+    },
+    {
+      "id": 22,
+      "name": "KayNine",
+      "artist": "LeMer78",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-yDgRsM1fcGXZbcNPp25QSMkBYxW22BoI9VUWp4B_dMrZcq14pM5-rH7C0Fc9DIn_tUI&usqp=CAU",
+      "price": 0
+    },
+    {
+      "id": 23,
+      "name": "KayNine",
+      "artist": "ToonAne",
+      "image": "https://artincontext.org/wp-content/uploads/2022/07/How-Does-Digital-Art-Work.jpg",
+      "price": 0
+    },
+    {
+      "id": 24,
+      "name": "KayNine",
+      "artist": "Axel78",
+      "image": "https://static01.nyt.com/images/2021/02/27/arts/24beeple-2/merlin_184196679_acecafff-affa-490c-b202-348d20c9c1b2-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+      "price": 0
+    },
+    {
+      "id": 25,
+      "name": "KayNine",
+      "artist": "Yoyolamp",
+      "image": "https://www.skillshare.com/blog/wp-content/uploads/2021/05/Screen-Shot-2021-05-12-at-9.18.19-PM.png",
+      "price": 0
+    },
+    {
+      "id": 26,
+      "name": "KayNine",
+      "artist": "Lamda",
+      "image": "https://magazine.artland.com/wp-content/uploads/2022/01/Digital-Art-min.jpg",
+      "price": 0
+    },
+    {
+      "id": 27,
+      "name": "KayNine",
+      "artist": "ObieTrice3",
+      "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f305fd5d-9181-411b-bf23-2daea267b63d/dfw8w0p-b440a95d-466d-4bf4-986b-5f04700148d6.png/v1/fit/w_300,h_900,q_70,strp/doomberry_grim_adoptable_by_ceroticart_dfw8w0p-300w.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAyNCIsInBhdGgiOiJcL2ZcL2YzMDVmZDVkLTkxODEtNDExYi1iZjIzLTJkYWVhMjY3YjYzZFwvZGZ3OHcwcC1iNDQwYTk1ZC00NjZkLTRiZjQtOTg2Yi01ZjA0NzAwMTQ4ZDYucG5nIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.cTWvB_ay92dr7YVy73fI_gAWQjJNvAXSigPKXcK8itI",
+      "price": 0
+    },
+    {
+      "id": 28,
+      "name": "KayNine",
+      "artist": "Opar00",
+      "image": "https://blog.artsper.com/wp-content/uploads/2022/01/La-Robotte-Janvier-Lattente-2021-1-644x644.jpg",
+      "price": 0
+    },
+    {
+      "id": 29,
+      "name": "KayNine",
+      "artist": "890Hen",
+      "image": "https://design4users.com/wp-content/uploads/2019/10/zombie-date-illustrations-1024x768.png",
+      "price": 0
+    },
+    {
+      "id": 30,
+      "name": "KayNine",
+      "artist": "Pieroi",
+      "image": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/stained-glass-cat-art-peggy-collins.jpg",
+      "price": 0
+    },
+    {
+      "id": 31,
+      "name": "KayNine",
+      "artist": "RunGo",
+      "image": "https://artprojectsforkids.org/wp-content/uploads/2021/01/Balloon-Dog-768x597.jpeg",
+      "price": 0
+    },
+    {
+      "id": 32,
+      "name": "KayNine",
+      "artist": "Xanos",
+      "image": "https://artprojectsforkids.org/wp-content/uploads/2021/01/Balloon-Dog-768x597.jpeg",
+      "price": 0
+    },
+    {
+      "id": 33,
+      "name": "KayNine",
+      "artist": "ThanosJoy",
+      "image": "https://artprojectsforkids.org/wp-content/uploads/2021/01/Balloon-Dog-768x597.jpeg",
+      "price": 0
+    },
+    {
+      "id": 34,
+      "name": "KayNine",
+      "artist": "RobotHero",
+      "image": "https://artprojectsforkids.org/wp-content/uploads/2021/01/Balloon-Dog-768x597.jpeg",
+      "price": 0
+    },
+    {
+      "id": 35,
+      "name": "KayNine",
+      "artist": "MoonKore",
+      "image": "https://artprojectsforkids.org/wp-content/uploads/2021/01/Balloon-Dog-768x597.jpeg",
+      "price": 0
+    },
+    {
+      "id": 36,
+      "name": "KayNine",
+      "artist": "RoyBull",
+      "image": "https://artprojectsforkids.org/wp-content/uploads/2021/01/Balloon-Dog-768x597.jpeg",
+      "price": 0
+    },
+    {
+      "id": 37,
+      "name": "KayNine",
+      "artist": "OttoRam",
+      "image": "https://artprojectsforkids.org/wp-content/uploads/2021/01/Balloon-Dog-768x597.jpeg",
+      "price": 0
+    },
+    {
+      "id": 38,
+      "name": "d",
+      "artist": "Jeelus",
+      "image": "https://artprojectsforkids.org/wp-content/uploads/2021/01/Balloon-Dog-768x597.jpeg",
+      "price": 0
+    },
+    {
+      "id": 39,
+      "name": "KayNine",
+      "artist": "BabyReem",
+      "image": "https://artprojectsforkids.org/wp-content/uploads/2021/01/Balloon-Dog-768x597.jpeg",
+      "price": 0
+    },
+    {
+      "id": 40,
+      "name": "Slwwp",
+      "artist": "ArtROm",
+      "image": "https://artprojectsforkids.org/wp-content/uploads/2021/01/Balloon-Dog-768x597.jpeg",
+      "price": 0
+    }
+  ]
+}
